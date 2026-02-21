@@ -1,4 +1,4 @@
-# ✈️ Airline Passenger Demand Forecasting System
+# Airline Passenger Demand Forecasting System
 
 A comprehensive Python application for analyzing and forecasting airline passenger demand using advanced time series models and Streamlit interface.
 
@@ -59,7 +59,7 @@ The application will open in your default browser at `http://localhost:8501`
 
 ## Features Guide
 
-### 📊 Tab 1: Overview
+##Tab 1: Overview
 
 - Historical data visualization
 - Key statistics and metrics
@@ -67,7 +67,7 @@ The application will open in your default browser at `http://localhost:8501`
 - Growth rate calculations
 - Data quality assessment
 
-### 📈 Tab 2: Decomposition & Analysis
+##Tab 2: Decomposition & Analysis
 
 - **Time Series Decomposition**: Breaks down the series into:
   - Trend Component
@@ -82,7 +82,7 @@ The application will open in your default browser at `http://localhost:8501`
   - Seasonal strength
   - Monthly seasonal factors
 
-### 🔮 Tab 3: Forecasting
+### Tab 3: Forecasting
 
 - Multiple model forecasting
 - Comparison of different approaches
@@ -90,14 +90,14 @@ The application will open in your default browser at `http://localhost:8501`
 - 6-60 period forecasting horizons
 - Model selection and configuration
 
-### 📉 Tab 4: Model Comparison
+### Tab 4: Model Comparison
 
 - Error metrics (MAE, RMSE, MAPE)
 - Visual comparison charts
 - Model performance ranking
 - Best model recommendations
 
-### 💡 Tab 5: Insights & Recommendations
+### Tab 5: Insights & Recommendations
 
 - Model recommendations based on data characteristics
 - Operational planning insights
@@ -110,7 +110,7 @@ The application will open in your default browser at `http://localhost:8501`
   - Bayesian uncertainty quantification
   - Dynamic regression with external factors
 
-### 📋 Tab 6: Export & Reports
+### Tab 6: Export & Reports
 
 - Download forecast data as CSV
 - Export analysis summaries
